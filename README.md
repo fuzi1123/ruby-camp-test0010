@@ -1,0 +1,1 @@
+# ruby-camp-test0010
